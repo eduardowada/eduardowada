@@ -16,4 +16,4 @@
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/eduardorodwada/)
 [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/>](https://www.instagram.com/eduardo_wada/)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%231B6E65&lines=Thanks+for+the+visit.+Check+back+often)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%231B6E65&lines=Obrigado+pela+sua+visita.+Check+back+often)](https://git.io/typing-svg)
