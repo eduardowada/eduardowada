@@ -7,7 +7,7 @@
   <li>Studying full stack jr java development at Generation bootcamp ☕</li>
   <li>Studying web full stack jr java development at +PraTi bootcamp 🌐</li>
   <li>Jr. Developer / Mechanical engineer / Work safety engineer / Project management</li>
-  <li>25y</li>
+  <li>26y</li>
 </ul>
 
 ---
